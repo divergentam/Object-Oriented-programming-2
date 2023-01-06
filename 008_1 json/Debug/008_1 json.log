@@ -1,0 +1,8 @@
+﻿  008_1.cpp
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\008_1 json\008_1.cpp(22,3): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\008_1 json\008_1.cpp(32): message : see reference to class template instantiation 'SimpleJsonElement<T>' being compiled
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\008_1 json\008_1.cpp(25,8): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\008_1 json\008_1.cpp(27,8): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\008_1 json\008_1.cpp(29,8): warning C4984: 'if constexpr' is a C++17 language extension
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\Debug\008_1 json.exe : fatal error LNK1120: 1 unresolved externals

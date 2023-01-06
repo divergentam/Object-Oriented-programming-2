@@ -1,0 +1,3 @@
+﻿  007_3.cpp
+C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\007_3 stack\007_3.cpp(77): warning C4715: 'ArrayStackImplementator<int>::peek': not all control paths return a value
+  007_3 stack.vcxproj -> C:\Users\tamar\Desktop\II god\OOP2\vezbe\Vezbe - ja radim\00P2 vezbe\Debug\007_3 stack.exe
